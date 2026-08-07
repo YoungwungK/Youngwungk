@@ -29,7 +29,7 @@
 
 | | 자격증 | 상태 |
 |---|---|---|
-| 🌐 | **Cisco CCNA 200-301** | 2026.08 취득 · [Credly](https://www.credly.com/users/여기에-본인-URL) |
+| 🌐 | **Cisco CCNA 200-301** | 2026.08 취득 · [Credly](https://www.credly.com/badges/1f991f31-251a-43f0-bf9a-d1a6704fb8e4/public_url) |
 | ☁️ | AWS Certified Solutions Architect – Associate | 준비 중 |
 | ⚙️ | Certified Kubernetes Administrator (CKA) | 준비 중 |
 
